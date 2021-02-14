@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4790c2de-a5d8-41c6-825e-b3f1233104df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/domain/IssueManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/domain/RepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="4790c2de-a5d8-41c6-825e-b3f1233104df" name="Default Changelist" comment="Tests are added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/domain/RepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/domain/RepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1612890050848</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tests are added">
+      <created>1613296198508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613296198508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tests are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests are added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1612891580753">
@@ -95,22 +104,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="581" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612891329984" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613296163637">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613296880244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613296163637" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613296163637">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613296880244" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613296880244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613296163637" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613296163637">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613296880244" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613296880244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613296163637" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613296163637">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613296880244" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613296880244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613296163637" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613296880244" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1612891124400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -119,5 +128,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612891042040" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613296223988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613296223988" />
   </component>
 </project>
